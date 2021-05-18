@@ -76,7 +76,7 @@ group :development, :test do
   gem 'fuubar', '~> 2.3'
   gem 'letter_opener', '~> 1.6'
   gem 'pry', '~> 0.11.3'
-  gem 'puma', '~> 3.12'
+  gem 'puma', '~> 4.3'
   gem 'rspec-rails', '~> 3.7'
   gem 'shoulda-matchers', '~> 3.1'
   gem 'capybara', '~> 2.18'
